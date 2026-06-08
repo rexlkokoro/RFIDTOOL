@@ -11,6 +11,8 @@ This repository provides a complete firmware solution that turns an ESP32 and an
 The application utilizes background AJAX polling to display tag data instantly as it is swiped, and features an internal memory-staging mechanism allowing secure raw block-level writes back to the card. It is ideal for prototyping access control systems, credential managers, or localized data logging tools.
 
 ---
+<img width="720" height="1608" alt="WhatsApp Image 2026-06-08 at 11 57 36 PM" src="https://github.com/user-attachments/assets/15ca777a-3d36-4510-b843-029c21ca9038" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-08 at 11 57 36 PM (1)" src="https://github.com/user-attachments/assets/f56201ab-ca91-4f02-94b7-26b73f009b94" />
 
 ## Key Features
 
